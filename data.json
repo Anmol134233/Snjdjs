@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "title": "Anmol Portfolio",
+    "description": "Check the portfolio of developer Anmol. See projects, including the new automation tool. Social Links. Contact Links. About Me.",
+    "image": "static/avatar.png",
+    "url": "https://www.anmol.info",
+    "background": "https://media3.giphy.com/media/U3qYN8S0j3bpK/giphy.gif?cid=38d97c99p4zswfrcwwxl9dolpdzy04jzeomnsri9fkfbtki4&ep=v1_gifs_search&rid=giphy.gif"
+  },
+  "profile": {
+    "image": "static/avatar.png",
+    "name": "Anmol",
+    "description": "Developer currently working on an automation tool. Learning Multiple Things."
+  },
+  "about": {
+    "title": "🚀 About Me",
+    "content": "Hi! I am Anmol. I am currently working on an automation tool and building projects for fun. learning multiple things."
+  },
+  "projects": [
+    {
+      "title": "Automation Tool",
+      "description": "Currently working on a new project: an automation tool.",
+      "link": "#"
+    }
+  ],
+  "socialLinks": [
+    {
+      "name": "GitHub",
+      "logo": "https://cdn-icons-png.flaticon.com/512/25/25231.png",
+      "link": "https://github.com/anmol"
+    },
+    {
+      "name": "Twitter",
+      "logo": "https://cdn-icons-png.flaticon.com/512/733/733579.png",
+      "link": "https://twitter.com/anmol"
+    },
+    {
+      "name": "Instagram",
+      "logo": "https://cdn.discordapp.com/emojis/1288449548791976030.png",
+      "link": "https://instagram.com/anmoldhakal101"
+    },
+    {
+      "name": "@anmol",
+      "logo": "https://cdn.discordapp.com/emojis/1207966282461347860.gif",
+      "link": "https://discord.gg/CeRHE88CRZ"
+    }
+  ],
+  "contact": [
+    {
+      "type": "Email",
+      "value": "anamoldhakal101@gmail.com"
+    },
+    {
+      "type": "Discord Account",
+      "value": "@anmol"
+    }
+  ]
+}
